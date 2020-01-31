@@ -1,0 +1,11 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html"
+    },
+    "emmet.syntaxProfiles":{
+        "jsx":{
+            "self_closing_tag":true
+        }
+    }
+}
